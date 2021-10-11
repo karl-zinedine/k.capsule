@@ -1,13 +1,11 @@
 # Karl Zinedine
 Capsule Repository
 
-:bulb: Pronouns: He/Him
-:bowtie: College Student with a Computer Engineering background and professional ex-perience in development of web interfaces and support for critical Law Enforcement applications.
+<br />:bulb: Pronouns: He/Him
+<br />:bowtie: College Student with a Computer Engineering background and professional experience in web development and support for Law Enforcement applications.
 
-:pushpin: San Diego, CA
-:mortar_board: Computer Engineer @ San Diego State University (Fall 2021)
-:watch: SDSD NetRMS & LEAG [DevOps] Developer
-:bar_chart: Ask me about SSRS & PowerBi reporting
-:hourglass: Hiking & Creative/Editorial Portraits
-
-
+<br />:pushpin: San Diego, CA
+<br />:mortar_board: Computer Engineer @ San Diego State University (Fall 2021)
+<br />:watch: SDSD NetRMS & LEAG [DevOps] Developer
+<br />:bar_chart: Ask me about SSRS & PowerBi reporting
+<br />:hourglass: Hiking & Creative/Editorial Portraits
