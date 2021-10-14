@@ -6,6 +6,6 @@ Capsule Repository
 
 <br />:pushpin: San Diego, CA
 <br />:mortar_board: Computer Engineering, San Diego State University (Fall 2021)
-<br />:watch: SDSD NetRMS & LEAG [DevOps] Developer
+<br />:watch: SDSD NetRMS & Law Enforcment Applications Group [DevOps] Developer
 <br />:bar_chart: Ask me about SSRS & MVC!
 <br />:hourglass: Hiking & Creative Portraits
