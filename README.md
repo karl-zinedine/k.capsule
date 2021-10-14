@@ -2,7 +2,7 @@
 Capsule Repository
 
 <br />:bulb: Pronouns: He/Him
-<br />:bowtie: College Student with a Computer Engineering background and professional experience in web development and support for Law Enforcement applications.
+<br />:bowtie: College Student with a Computer Engineering background and professional experience in software development for Law Enforcement applications.
 
 <br />:pushpin: San Diego, CA
 <br />:mortar_board: Computer Engineer @ San Diego State University (Fall 2021)
