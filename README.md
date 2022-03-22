@@ -7,5 +7,5 @@ Capsule Repository
 <br />:pushpin: San Diego, CA
 <br />:mortar_board: Computer Engineering, San Diego State University (Fall 2021)
 <br />:watch: SDSD NetRMS & Law Enforcment Applications Group [DevOps] Developer
-<br />:bar_chart: Ask me about SSRS & MVC!
+<br />:bar_chart: Ask me about Microsoft Azure & Business Intelligence!
 <br />:hourglass: Hiking, Rock Climbing, and Creative Portraits
